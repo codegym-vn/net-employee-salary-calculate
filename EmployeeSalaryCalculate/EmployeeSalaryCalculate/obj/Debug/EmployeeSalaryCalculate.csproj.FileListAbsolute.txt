@@ -1,0 +1,7 @@
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\bin\Debug\EmployeeSalaryCalculate.exe.config
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\bin\Debug\EmployeeSalaryCalculate.exe
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\bin\Debug\EmployeeSalaryCalculate.pdb
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\obj\Debug\EmployeeSalaryCalculate.csprojResolveAssemblyReference.cache
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\obj\Debug\EmployeeSalaryCalculate.csproj.CoreCompileInputs.cache
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\obj\Debug\EmployeeSalaryCalculate.exe
+D:\CodeGym-ThucHanh\EmployeeSalaryCalculate\EmployeeSalaryCalculate\obj\Debug\EmployeeSalaryCalculate.pdb
